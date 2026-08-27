@@ -1,5 +1,5 @@
 # algo-reps
 
-Sharpening the reasoning behind building, training, and deploying
-AI systems — through data structures, algorithms, and machine
-learning.
+Learning to build, train, and deploy AI and machine learning
+systems — practicing DSA and ML problem-solving daily to
+strengthen the underlying reasoning.
